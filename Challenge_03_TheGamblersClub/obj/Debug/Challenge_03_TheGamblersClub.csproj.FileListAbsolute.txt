@@ -1,0 +1,6 @@
+C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\bin\Debug\Challenge_03_TheGamblersClub.exe.config
+C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\bin\Debug\Challenge_03_TheGamblersClub.exe
+C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\bin\Debug\Challenge_03_TheGamblersClub.pdb
+C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.csprojResolveAssemblyReference.cache
+C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.exe
+C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.pdb
