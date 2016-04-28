@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_04_ShapeShifters"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_03_TheGamblersClub", "Challenge_03_TheGamblersClub\Challenge_03_TheGamblersClub.csproj", "{A2A8189B-BDDC-4324-8BF8-E71F84D85D86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_02_F1TrackMaker", "Challenge_02_F1TrackMaker\Challenge_02_F1TrackMaker.csproj", "{64D0C2ED-1EBE-4A09-8F38-E348B2CECCC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A2A8189B-BDDC-4324-8BF8-E71F84D85D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A8189B-BDDC-4324-8BF8-E71F84D85D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A8189B-BDDC-4324-8BF8-E71F84D85D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D0C2ED-1EBE-4A09-8F38-E348B2CECCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D0C2ED-1EBE-4A09-8F38-E348B2CECCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D0C2ED-1EBE-4A09-8F38-E348B2CECCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D0C2ED-1EBE-4A09-8F38-E348B2CECCC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
