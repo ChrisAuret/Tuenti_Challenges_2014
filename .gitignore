@@ -1,0 +1,7 @@
+log
+packages
+build
+release
+obj
+bin
+*.orig

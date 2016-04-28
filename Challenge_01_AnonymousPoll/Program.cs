@@ -2,13 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Runtime.Remoting.Messaging;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Anonymous_Poll
+namespace Challenge_01_AnonymousPoll
 {
-    public class Student
+    internal class Student
     {
         public string Name { get; set; }
         public char Gender { get; set; }
@@ -22,7 +19,7 @@ namespace Anonymous_Poll
         }
     }
 
-    public class Criteria
+    internal class Criteria
     {
         public char Gender { get; set; }
         public int Age { get; set; }
@@ -34,7 +31,7 @@ namespace Anonymous_Poll
     {
         static void Main(string[] args)
         {
-            var input = @"10
+            const string input = @"10
 F,18,Mechanical Engineering,1
 F,18,Microbiology,3
 M,20,Chemical Engineering,5
@@ -46,8 +43,7 @@ M,23,Environmental Science,1
 M,25,Clinical Laboratory Science,5
 M,25,Chemistry,2";
 
-
-            //            var input = @"5
+            //var input = @"5
             //M,21,Human Resources Management,3
             //F,20,Systems Engineering,2
             //M,20,Manufacturing Engineering,3
@@ -62,22 +58,20 @@ M,25,Chemistry,2";
 
             foreach (var match in matches)
             {
-                var studentNames = "";
-
-                var students = new List<Student>();
+                List<Student> students;
 
                 matches.TryGetValue(match.Key, out students);
 
-                foreach (var student in students)
+                if (students != null)
                 {
-                    studentNames += student.Name + ",";
-                }
+                    var studentNames = students.Aggregate("", (current, student) => current + (student.Name + ","));
 
-                if (match.Value.Count > 0)
-                    Console.WriteLine("Case #{0}: {1}", match.Key, studentNames.Substring(0, studentNames.Length - 1));
-                else
-                {
-                    Console.WriteLine("Case #{0}: NONE", match.Key);
+                    if (match.Value.Count > 0)
+                        Console.WriteLine("Case #{0}: {1}", match.Key, studentNames.Substring(0, studentNames.Length - 1));
+                    else
+                    {
+                        Console.WriteLine("Case #{0}: NONE", match.Key);
+                    }
                 }
             }
 
@@ -114,18 +108,22 @@ M,25,Chemistry,2";
             var sr = new StreamReader(new FileStream("students.txt", FileMode.Open));
             while (!sr.EndOfStream)
             {
-                var studentData = sr.ReadLine().Split(',').ToArray();
-
-                var student = new Student
+                var readLine = sr.ReadLine();
+                if (readLine != null)
                 {
-                    Name = studentData[0],
-                    Gender = char.Parse(studentData[1]),
-                    Age = int.Parse(studentData[2]),
-                    Subject = studentData[3],
-                    Year = int.Parse(studentData[4])
-                };
+                    var studentData = readLine.Split(',').ToArray();
 
-                allStudents.Add(student);
+                    var student = new Student
+                    {
+                        Name = studentData[0],
+                        Gender = char.Parse(studentData[1]),
+                        Age = int.Parse(studentData[2]),
+                        Subject = studentData[3],
+                        Year = int.Parse(studentData[4])
+                    };
+
+                    allStudents.Add(student);
+                }
             }
 
             return allStudents;

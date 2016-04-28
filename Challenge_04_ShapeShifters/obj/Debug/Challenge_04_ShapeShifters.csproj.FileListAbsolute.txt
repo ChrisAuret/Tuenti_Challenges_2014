@@ -7,3 +7,9 @@ C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_04_ShapeShif
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\bin\Debug\Challenge_04_ShapeShifters.exe.config
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\obj\Debug\Challenge_04_ShapeShifters.exe
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\obj\Debug\Challenge_04_ShapeShifters.pdb
+D:\Code\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\bin\Debug\Challenge_04_ShapeShifters.exe.config
+D:\Code\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\bin\Debug\Challenge_04_ShapeShifters.exe
+D:\Code\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\bin\Debug\Challenge_04_ShapeShifters.pdb
+D:\Code\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\obj\Debug\Challenge_04_ShapeShifters.csprojResolveAssemblyReference.cache
+D:\Code\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\obj\Debug\Challenge_04_ShapeShifters.exe
+D:\Code\Tuenti_Challenges_2014\Challenge_04_ShapeShifters\obj\Debug\Challenge_04_ShapeShifters.pdb

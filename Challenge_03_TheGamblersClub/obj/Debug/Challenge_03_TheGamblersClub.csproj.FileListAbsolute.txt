@@ -4,3 +4,9 @@ C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamble
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.csprojResolveAssemblyReference.cache
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.exe
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\F1\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.pdb
+D:\Code\Tuenti_Challenges_2014\Challenge_03_TheGamblersClub\bin\Debug\Challenge_03_TheGamblersClub.exe.config
+D:\Code\Tuenti_Challenges_2014\Challenge_03_TheGamblersClub\bin\Debug\Challenge_03_TheGamblersClub.exe
+D:\Code\Tuenti_Challenges_2014\Challenge_03_TheGamblersClub\bin\Debug\Challenge_03_TheGamblersClub.pdb
+D:\Code\Tuenti_Challenges_2014\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.csprojResolveAssemblyReference.cache
+D:\Code\Tuenti_Challenges_2014\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.exe
+D:\Code\Tuenti_Challenges_2014\Challenge_03_TheGamblersClub\obj\Debug\Challenge_03_TheGamblersClub.pdb

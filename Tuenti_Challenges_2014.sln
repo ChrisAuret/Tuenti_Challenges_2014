@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_02_F1", "Challenge_02_F1\Challenge_02_F1.csproj", "{C0929057-2125-4054-9450-1987E4A86F50}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_01_AnonymousPoll", "Challenge_01_AnonymousPoll\Challenge_01_AnonymousPoll.csproj", "{D21E57D1-6208-4B58-B52E-DD7D0E275815}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_04_ShapeShifters", "Challenge_04_ShapeShifters\Challenge_04_ShapeShifters.csproj", "{D0898C7A-DEDE-4F1A-843B-6C38CBA7D6DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_03_TheGamblersClub", "Challenge_03_TheGamblersClub\Challenge_03_TheGamblersClub.csproj", "{A2A8189B-BDDC-4324-8BF8-E71F84D85D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_02_F1", "Challenge_02_F1\Challenge_02_F1.csproj", "{AC128CCD-9DCB-4324-9B82-534B12A3202F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0929057-2125-4054-9450-1987E4A86F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0929057-2125-4054-9450-1987E4A86F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0929057-2125-4054-9450-1987E4A86F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0929057-2125-4054-9450-1987E4A86F50}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D21E57D1-6208-4B58-B52E-DD7D0E275815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D21E57D1-6208-4B58-B52E-DD7D0E275815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D21E57D1-6208-4B58-B52E-DD7D0E275815}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{A2A8189B-BDDC-4324-8BF8-E71F84D85D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A8189B-BDDC-4324-8BF8-E71F84D85D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A8189B-BDDC-4324-8BF8-E71F84D85D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC128CCD-9DCB-4324-9B82-534B12A3202F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC128CCD-9DCB-4324-9B82-534B12A3202F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC128CCD-9DCB-4324-9B82-534B12A3202F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC128CCD-9DCB-4324-9B82-534B12A3202F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

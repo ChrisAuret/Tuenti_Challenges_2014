@@ -12,3 +12,10 @@ C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\Tuenti_Challenges_2014\Ch
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\obj\Debug\Challenge_01_AnonymousPoll.csprojResolveAssemblyReference.cache
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\obj\Debug\Challenge_01_AnonymousPoll.exe
 C:\Users\aurchr0\Documents\Visual Studio 2013\Projects\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\obj\Debug\Challenge_01_AnonymousPoll.pdb
+D:\Code\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\bin\Debug\Challenge_01_AnonymousPoll.exe.config
+D:\Code\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\bin\Debug\students.txt
+D:\Code\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\bin\Debug\Challenge_01_AnonymousPoll.exe
+D:\Code\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\bin\Debug\Challenge_01_AnonymousPoll.pdb
+D:\Code\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\obj\Debug\Challenge_01_AnonymousPoll.csprojResolveAssemblyReference.cache
+D:\Code\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\obj\Debug\Challenge_01_AnonymousPoll.exe
+D:\Code\Tuenti_Challenges_2014\Challenge_01_AnonymousPoll\obj\Debug\Challenge_01_AnonymousPoll.pdb
